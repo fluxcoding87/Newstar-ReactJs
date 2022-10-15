@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Newstar-ReactJs/static/css/main.1b9fa99d.css",
+    "main.js": "/Newstar-ReactJs/static/js/main.f93ec4a1.js",
+    "static/js/787.4c026eef.chunk.js": "/Newstar-ReactJs/static/js/787.4c026eef.chunk.js",
+    "static/media/website-background.jpg": "/Newstar-ReactJs/static/media/website-background.05b88a1340319387e6fe.jpg",
+    "index.html": "/Newstar-ReactJs/index.html",
+    "main.1b9fa99d.css.map": "/Newstar-ReactJs/static/css/main.1b9fa99d.css.map",
+    "main.f93ec4a1.js.map": "/Newstar-ReactJs/static/js/main.f93ec4a1.js.map",
+    "787.4c026eef.chunk.js.map": "/Newstar-ReactJs/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b9fa99d.css",
+    "static/js/main.f93ec4a1.js"
+  ]
+}
